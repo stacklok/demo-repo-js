@@ -1,4 +1,4 @@
-# DummyRepo-js  💛
+# Demo-Repo-js  💛
 
 ## Overview
 
@@ -23,5 +23,3 @@ Next.js
 - Basic tailwind CSS setup
 - next.config.js with tailwind CSS support
 - `.gitignore` file suitable for JavaSript projects
-
-Happy testing! 🦀🎉
