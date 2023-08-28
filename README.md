@@ -1,34 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# DummyRepo-js  💛
 
-## Getting Started
+## Overview
 
-First, run the development server:
+`dummyrepo-js`, is a template is primarily intended for testing and
+demonstration purposes with stacklok projects. It is a simple react project with
+Next.js
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## How to Use This Template
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### GitHub Users
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. **Use this Template**:  
+   Click the "Use this template" button above the file list on this repository.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+2. **Create New Repository**:  
+   Provide your repository with a name, description, and set the privacy settings. Click "Create repository from template."
 
-## Learn More
+## Features
 
-To learn more about Next.js, take a look at the following resources:
+- Pre-configured `package.json` with `react` and `next` dependencies
+- Sample Rust code in `src/`
+- Basic tailwind CSS setup
+- next.config.js with tailwind CSS support
+- `.gitignore` file suitable for JavaSript projects
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Happy testing! 🦀🎉
